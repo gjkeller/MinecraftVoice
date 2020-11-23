@@ -1,0 +1,10 @@
+name: MinecraftVoice
+version: ${project.version}
+main: com.okgabe.minecraftvoice.MinecraftVoice
+api-version: 1.16
+authors: [ ItsGJK ]
+website: https://okgabe.com
+commands:
+  voiceconnect:
+    description: Connect to voice
+    usage: /<command>
